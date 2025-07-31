@@ -5,8 +5,7 @@ This project showcases a **Sales Analytics Dashboard** built using **Microsoft P
 - Profit trend analysis over time
 - Category and product-wise profit breakdown
 - Predictive analytics using built-in forecasting
-<img width="1145" height="724" alt="Screenshot 2025-07-31 104711" src="https://github.com/user-attachments/assets/ca950a95-1cf8-4ed5-9c98-80b252bc8eb5" />
-
+<img width="998" height="708" alt="Screenshot 2025-07-31 105138" src="https://github.com/user-attachments/assets/534015b1-a9bf-4240-9d94-0ba923222120" />
 ---
 
 ## 🧩 Features
