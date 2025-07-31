@@ -11,6 +11,8 @@ This project showcases a **Sales Analytics Dashboard** built using **Microsoft P
 
 - 📈 **Line Chart:** Total profit over months with forecasting enabled
 - 🥧 **Pie Chart:** Profit distribution by category
+- 📦 **Bar Chart:** Top 5 products by profit
+
 - 🔮 **Prediction Graph:** Future profit trends using Power BI’s forecast analytics
 <img width="998" height="708" alt="Screenshot 2025-07-31 105138" src="https://github.com/user-attachments/assets/534015b1-a9bf-4240-9d94-0ba923222120" />
 
